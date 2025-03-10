@@ -1,8 +1,8 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 let amigos = [];
 
-function asignarTexto(elment, texto){
-    let elementoHTML = document.querySelector(elment);
+function asignarTexto(getElementById, texto){
+    let elementoHTML = document.querySelector(getElementById);
     elementoHTML.innerHTML = texto;
 }
 
@@ -27,4 +27,17 @@ function agregarAmigo(){
     }else{
         alert("Por favor, inserte un nombre.");
     }
+}
+
+function sortearAmigo(){
+    let amigoRandom = Math.floor(Math.random() * amigos.length);
+    //console.log(`El nombre es ${amigos[amigoRandom]}`);    Validar que se esta escogiendo un nombre al azar 
+    
+    /*
+                ARREGLARLO !ESTA MAL
+    let amigoSeleccionado = amigos[amigoRandom]
+    document.getElementById("resultudo").textContent = `${amigoSeleccionado}`;
+            
+    */  
+    
 }
