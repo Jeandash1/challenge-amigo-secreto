@@ -1,5 +1,5 @@
 <em> Challenge amigo secreto </em>
-![Badge Terminado](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge Terminado](https://img.shields.io/badge/STATUS-%20COMPLETO-green)
 
 !Este Proyecto es netamente educativo¡
 
