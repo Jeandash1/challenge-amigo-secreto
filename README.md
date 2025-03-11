@@ -16,9 +16,9 @@ si de lo contrario desea hacer puebas de maner directa ingresa al siguiente link
 
 
 <h3>Funcion del proyecto</h3>
-![como ingresar nombre](image.png)
+![como ingresar nombre](img/explain.png)
 
-se van almazenando los nombres en el cuadro 
+cada ves que escribas un nombre y le dad clcik en añadir se van almazenando los nombres en el cuadro 
 
 ![resultado](img/resultado.png)
 
