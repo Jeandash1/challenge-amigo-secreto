@@ -1,10 +1,10 @@
-<em> Challenge amigo secreto </em>
 ![Badge Terminado](https://img.shields.io/badge/STATUS-%20COMPLETO-green)
+<em> Challenge amigo secreto </em>
 
 !Este Proyecto es netamente educativo¡
 
 Resumen del proyecto:
-El proyecto consiste en ingresar varios nombres de amigos, al ingresar todos los amigos deseados puedes sortear el amigo al azar que se asignara a ti
+El proyecto consiste en ingresar varios nombres de amigos una vez haya ingresado todos los amigos deseados puedes sortear el amigo al azar que se asignara a ti
 
 <h2 aling="center"> Como descargar el proyecto </h2>
 
@@ -14,9 +14,9 @@ Descarga el proyecto como ZIP como se muestra en la imagen para poder visualizar
 
 si de lo contrario desea hacer puebas de maner directa ingresa al siguiente link: https://jeandash1.github.io/challenge-amigo-secreto/
 
-
 <h3>Funcion del proyecto</h3>
-![como ingresar nombre](img/explain.png)
+
+![ingresar nombres](img/explain.png)
 
 cada ves que escribas un nombre y le dad clcik en añadir se van almazenando los nombres en el cuadro 
 
